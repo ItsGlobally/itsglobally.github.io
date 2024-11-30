@@ -1,8 +1,10 @@
+import Image from 'next/image';
+import Logo from '../components/Logo.png'
 function Home() {
   return (
     <main>
       <p>eee</p>
-      <img src="/_next/static/logo.png" width="210" height="auto"></img>
+      <Image src={Logo} width="210" height="auto"></Image>
     </main>
   )
 }
