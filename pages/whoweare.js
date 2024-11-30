@@ -20,7 +20,7 @@ function WhoWeAre() {
                 </div>
                 <div>
                 <a>&c[&fYOUTUBE&c] _YuTw</a>
-                <a>A Youtuber that make bedtwL Start SMP Server and update! (also hes very important bcz he can make bed update & fix things</a>
+                <a>A Youtuber that makes bedtwL Starts SMP Server and updates!</a>
                 </div>
                 <div>
                 <a>&b[Tester] ItsGlobally</a>
