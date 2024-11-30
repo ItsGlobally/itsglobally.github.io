@@ -1,0 +1,8 @@
+.app {
+    margin-top: 20px; /* 確保內容與 Bar 有間距 */
+    padding: 20px; /* 添加內容的內邊距 */
+    
+  }
+.app a {
+  font-size: 32px;
+}

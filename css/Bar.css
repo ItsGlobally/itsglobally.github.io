@@ -1,0 +1,9 @@
+.bar {
+    width: 100%; /* 讓分隔線佔滿父容器寬度 */
+    border-bottom: 1px solid #ccc; /* 添加分隔線 */
+    border-radius: 5px;
+    padding: 10px; /* 為內容添加間距 */
+    background-color: #c2c2c2; /* 選擇合適的背景色 */
+    box-sizing: border-box; /* 確保內邊距不影響寬度計算 */
+    position: relative;
+  }

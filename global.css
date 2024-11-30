@@ -1,39 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+
 * {
   border-color: #00000000;
   border-radius: 15px;
-}
-a {
-}
-.bar {
-  width: 100%; /* 讓分隔線佔滿父容器寬度 */
-  border-bottom: 1px solid #ccc; /* 添加分隔線 */
-  border-radius: 5px;
-  padding: 10px; /* 為內容添加間距 */
-  background-color: #c2c2c2; /* 選擇合適的背景色 */
-  box-sizing: border-box; /* 確保內邊距不影響寬度計算 */
-  position: relative;
-  top: 50%;
+  font-family: "DM Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 16px;
+  font-style: normal;
+  color:white;
 }
 
-.bar a {
+
+a {
   margin-right: 20px; /* 兩個連結之間的間距 */
   text-decoration: none; /* 去掉默認的下劃線 */
   color: #000; /* 設定文字顏色 */
   font-size: 16px; /* 文字大小 */
 }
 
-.bar a:last-child {
+.a {
+  margin-right: 1px; /* 兩個連結之間的間距 */
+  text-decoration: none; /* 去掉默認的下劃線 */
+  color: #000; /* 設定文字顏色 */
+  font-size: 16px; /* 文字大小 */
+}
+
+a:last-child {
   margin-right: 0; /* 去掉最後一個連結的右邊距 */
 }
 
-.app {
-  margin-top: 20px; /* 確保內容與 Bar 有間距 */
-  padding: 20px; /* 添加內容的內邊距 */
-}
+
+
 
 body {
+  align-items: center;
   font-family: 'SF Pro Text', 'SF Pro Icons', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
   margin: 10 auto;
+  background-color:#c2c2c2;
   font-size: 16px;
   line-height: 1.65;
   word-break: break-word;

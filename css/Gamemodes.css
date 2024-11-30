@@ -1,0 +1,11 @@
+.gamemodes {
+    border-radius: 15px;
+    background-color: rgba(0, 0, 0, 0.479);
+    width: 240px;
+}
+.desc a{
+    font-size: 20px;
+}
+.title a {
+    color: white;
+}

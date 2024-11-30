@@ -1,0 +1,11 @@
+.foot {
+    width: 99%; /* 讓分隔線佔滿父容器寬度 */
+    border-radius: 5px;
+    padding-left: 10px; /* 為內容添加間距 */
+    background-color: #c2c2c2; /* 選擇合適的背景色 */
+    box-sizing: border-box; /* 確保內邊距不影響寬度計算 */
+    position: fixed;
+    bottom: 10px;
+    height: 50px;
+    font-size: 16px;
+  }
