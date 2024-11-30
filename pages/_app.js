@@ -1,5 +1,14 @@
-import '../global.css'
+// _app.js
+import '../global.css';
+import Bar from '../components/Bar';
 
 export default function MyApp({ Component, pageProps }) {
-  return <Component {...pageProps} />
+  return (
+    <div>
+      <Bar />
+      <div className="app">
+        <Component {...pageProps} />
+      </div>
+    </div>
+  );
 }

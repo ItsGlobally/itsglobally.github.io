@@ -1,7 +1,27 @@
+* {
+  border-color: #00000000;
+  border-radius: 15px;
+}
+
+.bar {
+  width: 100%; /* 讓分隔線佔滿父容器寬度 */
+  border-bottom: 1px solid #ccc; /* 添加分隔線 */
+  border-radius: 5px;
+  padding: 10px; /* 為內容添加間距 */
+  background-color: #c2c2c2; /* 選擇合適的背景色 */
+  box-sizing: border-box; /* 確保內邊距不影響寬度計算 */
+  position: relative;
+  top: 50%;
+}
+
+.app {
+  margin-top: 20px; /* 確保內容與 Bar 有間距 */
+  padding: 20px; /* 添加內容的內邊距 */
+}
+
 body {
-  font-family: 'SF Pro Text', 'SF Pro Icons', 'Helvetica Neue', 'Helvetica',
-    'Arial', sans-serif;
-  margin: 0 auto;
+  font-family: 'SF Pro Text', 'SF Pro Icons', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+  margin: 10 auto;
   font-size: 16px;
   line-height: 1.65;
   word-break: break-word;
