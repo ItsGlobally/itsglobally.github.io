@@ -8,19 +8,19 @@ function WhoWeAre() {
                 </div>
                 <div>
                 <a>&4[ADMIN&d++&4] UnlimitFPS</a>
-                <a>A Pro Coder & Pro debugger for this server</a>
+                <a>A pro coder & pro debugger for this server</a>
                 </div>
                 <div>
                 <a>&4[ADMIN&d++&4] ImLinChen</a>
-                <a>A Coder for this server</a>
+                <a>A coder for this server</a>
                 </div>
                 <div>
                 <a>&4[ADMIN&d++&4] susFries</a>
-                <a>A Image and Video Maker for our server</a>
+                <a>A image and video maker for our server</a>
                 </div>
                 <div>
                 <a>&c[&fYOUTUBE&c] _YuTw</a>
-                <a>A Youtuber that makes bedtwL Starts SMP Server and updates!</a>
+                <a>A Youtuber that makes bedtwL starts and updates the survival servers!</a>
                 </div>
                 <div>
                 <a>&b[Tester] ItsGlobally</a>
